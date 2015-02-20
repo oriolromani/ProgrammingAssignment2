@@ -1,4 +1,4 @@
-
+## The code is basically re-used from the README.md of the assignment
 
 ## The function makeMatrix creates a list of four functions:
 ## - set: sets the value of the matrix
